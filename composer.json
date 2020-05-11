@@ -1,5 +1,5 @@
 {
-    "name": "iamsaint/barcode",
+    "name": "gerhard-kanzler/barcode",
     "description": "UPC-A, UPC-E, EAN-13, EAN-8, Code 39, Code 93, Code 128, Codabar, ITF, QR Code, and Data Matrix generator",
     "version": "2.0.0",
     "keywords": [
